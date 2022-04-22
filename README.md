@@ -2,11 +2,11 @@
 
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
-Submitted by: **NAME**
+Submitted by: Aryan Parikh
 
-Time spent: **#** hours spent in total
+Time spent: 10 hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: https://glitch.com/~nervous-peppered-hunter
 
 ## Required Functionality
 
