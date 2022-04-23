@@ -39,6 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
+(I sometimes click the button too quickly so it doesn't show that I clicked it)
 ![LightandSoundMemoryGame](https://user-images.githubusercontent.com/92760614/164836715-952ec3be-62bf-49e7-b324-aa3e811ce88d.gif)
 
 
